@@ -7,7 +7,7 @@
 # print("Integer_number_is:",Integer_number)
 # float_number= 23.33
 # print("float number is:",float_number)
-# listing_name= ["abhi,ras,gig"]
+# listing_name= ["abhi","ras","gig"]
 # print("listing name is",listing_name)
 
 
@@ -97,12 +97,24 @@
 # myFunction("sharath",300)
 # myFunction("sudeep",400)
 
-def calculator(a,b):
-    print("sum is:",a+b)
-    print ("addition :",a+b)
-    print("substraction:",a-b)
-    print("multiplcation",a*b)
-    print("division:",a/b)
+# def calculator(a,b):
+#     print("sum is:",a+b)
+#     print ("addition :",a+b)
+#     print("substraction:",a-b)
+#     print("multiplcation",a*b)
+#     print("division:",a/b)
 
 
-calculator(12,34)
+# calculator(12,34)
+
+# variable scope
+# local scope 
+# global scope
+
+# def myFuntion():
+#     global name
+#     name = "bharath"
+#     print("inside function",name)
+# myFuntion()
+
+# print(name)
