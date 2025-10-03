@@ -97,11 +97,12 @@
 # myFunction("sharath",300)
 # myFunction("sudeep",400)
 
-def number(a,b):
+def calculator(a,b):
     print("sum is:",a+b)
     print ("addition :",a+b)
     print("substraction:",a-b)
     print("multiplcation",a*b)
     print("division:",a/b)
-number(12,34)
-number(12,10)
+
+
+calculator(12,34)
